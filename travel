@@ -1,34 +1,18 @@
 [
   {
-    "string": "Hello",
-    "lang": "en"
+    "country": "Canada",
+    "capitol": "Toronto"
   },
   {
-    "string": "Hola",
-    "lang": "es"
+    "country": "USA",
+    "capitol": "Washington D.C."
   },
   {
-    "string": "Nǐn hǎo",
-    "lang": "zh"
+    "country": "China",
+    "capitol": "Beijng"
   },
   {
-    "string": "Guten Tag",
-    "lang": "de"
-  },
-  {
-    "string": "Olá",
-    "lang": "pt"
-  },
-  {
-    "string": "Merhaba",
-    "lang": "tr"
-  },
-  {
-    "string": "Привет",
-    "lang": "ru"
-  },
-  {
-    "string": "Salve",
-    "lang": "it"
+    "country": "India",
+    "capitol": "New Delhi"
   }
 ]
