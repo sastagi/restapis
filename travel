@@ -1,11 +1,12 @@
 [
   {
     "country": "Canada",
-    "capitol": "Toronto"
+    "capitol": "OttawaUSA
+    "
   },
   {
     "country": "USA",
-    "capitol": "Washington D.C."
+    "capitol": "Washington, D.C."
   },
   {
     "country": "China",
@@ -14,5 +15,13 @@
   {
     "country": "India",
     "capitol": "New Delhi"
+  },
+  {
+    "country": "Japan",
+    "capitol": "Tokyo"
+  },
+  {
+    "country": "Russia",
+    "capitol": "Moscow"
   }
 ]
