@@ -1,26 +1,26 @@
 [
   {
     "country": "Canada",
-    "capitol": "Ottawa"
+    "capital": "Ottawa"
   },
   {
     "country": "USA",
-    "capitol": "Washington, D.C."
+    "capital": "Washington, D.C."
   },
   {
     "country": "China",
-    "capitol": "Beijng"
+    "capital": "Beijng"
   },
   {
     "country": "India",
-    "capitol": "New Delhi"
+    "capital": "New Delhi"
   },
   {
     "country": "Japan",
-    "capitol": "Tokyo"
+    "capital": "Tokyo"
   },
   {
     "country": "Russia",
-    "capitol": "Moscow"
+    "capital": "Moscow"
   }
 ]
