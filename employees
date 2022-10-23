@@ -1,0 +1,25 @@
+{
+	"employees" : [
+		{
+      "id" : "0d8fcc12-4d0c-425c-8355-390b312b909c",
+
+      "name" : "Justine Mason",
+      "phone" : "5553280123",
+      "email" : "jmason.demo@squareup.com",
+      "biography" : "Engineer on the Point of Sale team.",
+      "team" : "Point of Sale",
+      "photo" : ""
+    },
+
+    {
+      "id" : "a98f8a2e-c975-4ba3-8b35-01f719e7de2d",
+
+      "name" : "Camille Rogers",
+      "phone" : "5558531970",
+      "email" : "crogers.demo@squareup.com",
+
+      "team" : "Public Web & Marketing",
+      "photo" : ""
+    }   
+	]
+}
