@@ -3,22 +3,21 @@
 		{
       "id" : "0d8fcc12-4d0c-425c-8355-390b312b909c",
 
-      "name" : "Justine Mason",
+      "name" : "Justin Hardin",
       "phone" : "5553280123",
-      "email" : "jmason.demo@squareup.com",
-      "biography" : "Engineer on the Point of Sale team.",
-      "team" : "Point of Sale",
+      "email" : "j@d.com",
+      "team" : "Sales",
       "photo" : ""
     },
 
     {
       "id" : "a98f8a2e-c975-4ba3-8b35-01f719e7de2d",
 
-      "name" : "Camille Rogers",
+      "name" : "Camille Parker",
       "phone" : "5558531970",
-      "email" : "crogers.demo@squareup.com",
+      "email" : "c@h.com",
 
-      "team" : "Public Web & Marketing",
+      "team" : "Marketing",
       "photo" : ""
     }   
 	]
